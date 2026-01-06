@@ -16,12 +16,12 @@ You need Python installed on your system along with the `python-chess` library.
 ### Installation
 Install the required dependency via pip:
 ```bash
-pip install python-chess
+pip install python-chess```
 
 ### Usage
 Run the script from your terminal by providing the path to your PGN file:
 ```bash
-python pgn_cleaner.py your_games.pgn
+python pgn_cleaner.py your_games.pgn```
 
 ### License
 This project is licensed under the GNU General Public License v3.0 (GPLv3). See the LICENSE file for details.
